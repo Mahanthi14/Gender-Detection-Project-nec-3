@@ -1,0 +1,44 @@
+/* Background */
+body {
+    background-color: #f5f7fb;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Title */
+h1, h2, h3 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Upload box */
+.stFileUploader {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px dashed #4CAF50;
+}
+
+/* Buttons */
+button {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    border-radius: 8px !important;
+    padding: 8px 16px !important;
+    font-weight: bold;
+}
+
+/* Result box */
+.result-box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* Image */
+img {
+    border-radius: 10px;
+    border: 3px solid #ddd;
+}
